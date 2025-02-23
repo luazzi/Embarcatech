@@ -56,7 +56,6 @@ target_link_libraries(comandas_iot
         pico_cyw43_arch_lwip_threadsafe_background
         hardware_pio
         hardware_pwm
-        hardware_dma
         hardware_i2c
         pico_stdlib
         )
